@@ -9,4 +9,4 @@ command = "npm run build"
 # Development configuration
 [vars]
 UUID = "d3b3b34b-8eb1-4c90-bcaa-e2e747e71bf5"
-PROXY_IP = "172.66.45.9:443,104.18.128.25:443,162.159.136.94:443"
+PROXY_IP = "199.34.228.164:443"
